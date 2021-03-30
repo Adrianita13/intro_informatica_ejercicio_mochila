@@ -1,0 +1,9 @@
+Resumen clase 1
+
+Realizamos una presentación de todos los integrantes y aprendimos qué herramientas vamos a utilizar.
+Vimos un recorrido de los módulos de la materia.
+Nos informaron los métodos de evaluación y requisitos de aprobación. 
+
+Vimos la historia de la informática. La "primera computadora", el ábaco. 
+La historia de Alan Turing y cómo creo un algoritmo para descifrar los mensajes alemanes durante la segunda guerra Mundial
+Eva Lovelace y el grupo ENIAC, las primeras programadoras de la historia. 
