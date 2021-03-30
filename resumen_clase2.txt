@@ -1,0 +1,4 @@
+RESUMEN CLASE 2
+
+Aprendimos qué es la terminal, para qué sirve y qué se puede hacer con ella. 
+Aprendimos qué es un comando y comenzamos a ver los comandos básicos, como pwd, cd, mkdir, touch, rm.
