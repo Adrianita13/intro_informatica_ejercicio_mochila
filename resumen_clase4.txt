@@ -1,0 +1,4 @@
+RESUMEN CLASE 4
+Aprendimos qué es git Hub, qué es un repositorio en la nube, las conveniencias que significa y cómo conectar nuestro repositorio local con el de la nube
+las palabras clave de este proceso son : git pull y git push, teniendo en cuenta que hay que descargar los cambios que pueden estar en el repositorio en la nube , antes de subir los nuestros.
+De esta acción pueden surgir conflictos, los cuales hay que resolver antes de poder hacer un push de nuestro trabajo.
