@@ -2,3 +2,5 @@ RESUMEN CLASE 3
 Conocimos GIT, aprendimos a hacer un repositorio local, agregar archivos, y lo que significa un "commit"
 Las palabras claves del proceso "git add, git commit, git status"
 
+##prueba
+
