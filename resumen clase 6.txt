@@ -1,0 +1,7 @@
+Clase 6
+
+Repasamos tipos de memoria, especificaciones de velocidad, frecuencia, voltaje  y capacidad. 
+Las diferencias de memorias primaria y secundaria en cuanto a sus usos y sus características.
+Vimos los distintos tipos de gestión de memoria: la paginación y segmentación, el híbrido entre éstos y la fragmentación.
+Hasta aquí entendí.
+Por úlitmo, se dio la tabla de conversión, de la cual no pude entender nada por lo cual no puedo hacer un resumen.
